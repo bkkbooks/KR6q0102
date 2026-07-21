@@ -24,12 +24,12 @@ metadata:
     short: CBETA
 assets:
   parts:
-  - {seq: 0, filename: KR6q0102_000-CBETA.yaml, hash: 'sha256:3186ab0b013a838435d41dc1bec312d1ccab9f5b2d202328abfece424db44e52'}
+  - {seq: 0, filename: KR6q0102_000-CBETA.yaml, hash: 'sha256:8c06ffba2d4908cb8b9598257cb83f395d9e8a8937e1a44485441c8baa060389'}
   - {seq: 3, filename: KR6q0102_003-CBETA.yaml, hash: 'sha256:932806dbd0195c4ac66f1723f9669738d41d8efef5a89663540516aa2b526d26'}
   - {seq: 6, filename: KR6q0102_006-CBETA.yaml, hash: 'sha256:2fb1f3bfe7622a2d6048d17e8903713bd961f51b9da3b5afaee094e62838e22d'}
   - {seq: 7, filename: KR6q0102_007-CBETA.yaml, hash: 'sha256:43fdc547e51741ebaaba9430ba53b45a47d38ccf7a7354482dc51af849780f6d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0102_000-CBETA.markers.yaml, hash: 'sha256:38b46ff4b5cf11fba1fd6edf0e3a73f2b731af0f79d831df09d842cebac96f04'}
+  - {seq: 0, role: markers, filename: assets/KR6q0102_000-CBETA.markers.yaml, hash: 'sha256:0bd1895596e2872d25e38ce956b1cad3988aead224152c44d2c56d7198b99e8a'}
   - {seq: 3, role: markers, filename: assets/KR6q0102_003-CBETA.markers.yaml, hash: 'sha256:226164e2af32a0eed60937f5fd76e1e7c9b1d83226d757fdeb06d34a31fa58a0'}
   - {seq: 6, role: markers, filename: assets/KR6q0102_006-CBETA.markers.yaml, hash: 'sha256:0f4941de6f821e5c5db3d46e6b51a4bb110eec4aa652061f795013956f062b19'}
   - {seq: 7, role: markers, filename: assets/KR6q0102_007-CBETA.markers.yaml, hash: 'sha256:59c8323960327fe194e44a1c8669fde0c597fab06cb0491b3bd735c3f29515b5'}
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 勅修百丈清規
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-2
     span:
-    - front
+    - body
     - 1904
     - 1904
   label: 勅修百丈清規目錄
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-3
     span:
-    - front
+    - body
     - 1944
     - 1944
   label: 1 祝釐章
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-4
     span:
-    - front
+    - body
     - 2077
     - 2077
   label: 聖節
@@ -78,7 +78,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-5
     span:
-    - front
+    - body
     - 4118
     - 4118
   label: 景命四齋日祝讚
@@ -88,7 +88,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-6
     span:
-    - front
+    - body
     - 4249
     - 4249
   label: 旦望藏殿祝讚
@@ -98,7 +98,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-7
     span:
-    - front
+    - body
     - 4467
     - 4467
   label: 每日祝讚
@@ -108,7 +108,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-8
     span:
-    - front
+    - body
     - 4523
     - 4523
   label: 千秋節
@@ -118,7 +118,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-9
     span:
-    - front
+    - body
     - 4656
     - 4656
   label: 善月
@@ -128,7 +128,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-10
     span:
-    - front
+    - body
     - 4815
     - 4815
   label: 2 報恩章
@@ -138,7 +138,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-11
     span:
-    - front
+    - body
     - 4933
     - 4933
   label: 國忌
@@ -148,7 +148,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-12
     span:
-    - front
+    - body
     - 5098
     - 5098
   label: 祈禱
@@ -158,7 +158,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-13
     span:
-    - front
+    - body
     - 5276
     - 5276
   label: 祈晴
@@ -168,7 +168,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-14
     span:
-    - front
+    - body
     - 5380
     - 5380
   label: 祈雨
@@ -178,7 +178,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-15
     span:
-    - front
+    - body
     - 5484
     - 5484
   label: 祈雪
@@ -188,7 +188,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-16
     span:
-    - front
+    - body
     - 5584
     - 5584
   label: 遣蝗
@@ -198,7 +198,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-17
     span:
-    - front
+    - body
     - 5686
     - 5686
   label: 日蝕
@@ -208,7 +208,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-18
     span:
-    - front
+    - body
     - 5770
     - 5770
   label: 月蝕
@@ -218,7 +218,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-19
     span:
-    - front
+    - body
     - 5854
     - 5854
   label: 3 報本章
@@ -228,7 +228,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-20
     span:
-    - front
+    - body
     - 5992
     - 5992
   label: 佛降誕
@@ -238,7 +238,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-21
     span:
-    - front
+    - body
     - 6521
     - 6521
   label: 佛成道涅槃
@@ -248,7 +248,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-22
     span:
-    - front
+    - body
     - 8203
     - 8203
   label: 帝師涅槃
@@ -258,7 +258,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-23
     span:
-    - front
+    - body
     - 8864
     - 8864
   label: 4 尊祖章
@@ -268,7 +268,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-24
     span:
-    - front
+    - body
     - 9081
     - 9081
   label: 達磨忌
@@ -278,7 +278,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-25
     span:
-    - front
+    - body
     - 10173
     - 10173
   label: 百丈忌
@@ -288,7 +288,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-26
     span:
-    - front
+    - body
     - 10702
     - 10702
   label: 開山歷代祖忌
@@ -298,7 +298,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-27
     span:
-    - front
+    - body
     - 10982
     - 10982
   label: 嗣法師忌
@@ -308,7 +308,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-28
     span:
-    - front
+    - body
     - 11354
     - 11354
   label: 5 住持章
@@ -318,7 +318,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-29
     span:
-    - front
+    - body
     - 11587
     - 11587
   label: 住持日用
@@ -328,7 +328,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-30
     span:
-    - front
+    - body
     - 11591
     - 11591
   label: 上堂
@@ -338,7 +338,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-31
     span:
-    - front
+    - body
     - 11907
     - 11907
   label: 晚參
@@ -348,7 +348,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-32
     span:
-    - front
+    - body
     - 12063
     - 12063
   label: 小參
@@ -358,7 +358,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-33
     span:
-    - front
+    - body
     - 12373
     - 12373
   label: 告香
@@ -368,7 +368,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-34
     span:
-    - front
+    - body
     - 13148
     - 13148
   label: 普說
@@ -378,7 +378,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-35
     span:
-    - front
+    - body
     - 13237
     - 13237
   label: 入室
@@ -388,7 +388,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-36
     span:
-    - front
+    - body
     - 13633
     - 13633
   label: 念誦
@@ -398,7 +398,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-37
     span:
-    - front
+    - body
     - 14245
     - 14245
   label: 巡寮
@@ -408,7 +408,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-38
     span:
-    - front
+    - body
     - 14414
     - 14414
   label: 肅眾
@@ -418,7 +418,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-39
     span:
-    - front
+    - body
     - 14806
     - 14806
   label: 訓童行
@@ -428,7 +428,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-40
     span:
-    - front
+    - body
     - 14971
     - 14971
   label: 為行者普說
@@ -438,7 +438,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-41
     span:
-    - front
+    - body
     - 15232
     - 15232
   label: 受法衣
@@ -448,7 +448,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-42
     span:
-    - front
+    - body
     - 15408
     - 15408
   label: 迎侍尊宿
@@ -458,7 +458,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-43
     span:
-    - front
+    - body
     - 16194
     - 16194
   label: 施主請陞座齋僧
@@ -468,7 +468,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-44
     span:
-    - front
+    - body
     - 16629
     - 16629
   label: 受嗣法人煎點
@@ -478,7 +478,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0102_CBETA_000-mulu-45
     span:
-    - front
+    - body
     - 17010
     - 17010
   label: 嗣法師遺書至
@@ -2384,4 +2384,4 @@ table_of_contents:
   label: 一山禪師書
   type: mulu
   level: 1
-hash: sha256:f647ec847ce26819c19ea629a024f627b3147176d81a85fd2c1b3d0196b4c1b7
+hash: sha256:af381e1e3ff69aa1907db8b9a5e3a7a815181804d519123db004bfdc7fdabde2
